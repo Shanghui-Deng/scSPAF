@@ -31,8 +31,15 @@ git clone https://github.com/Shanghui-Deng/scSPAF.git
 - ```scSPAF.py```: defines the architecture of the whole model
 - ```main.py```: run the model
 
-Train a new model:
+#### Example command
+Take the dataset "PBMC-3k" as an example
 
-````python
-python main.py
-````
+- Step 1: Pre-training model
+```
+python main.py --name PBMC-3k --pretrain True
+```
+- Step 2: Formal training model with pre-training model
+```
+python main.py --name PBMC-3k
+```
+
