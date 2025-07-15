@@ -3,7 +3,7 @@
 The complete code and datasets will be made public after the paper is accepted.
 
 ## Datasets
-Ma-2020, PBMC-3k, PBMC-10k, BMNC, GSE and GSE100866 datasets can be downloaded from [Baidu Clouds](https://pan.baidu.com/).
+Ma-2020, PBMC-3k, PBMC-10k, BMNC, GSE and GSE100866 datasets can be downloaded from [Google Drive](https://drive.google.com/drive/folders/17Q1rlOfqSKdVlIXqqs8oBC6BIpqaEt-o?usp=sharing).
 
 ## Usage
 
